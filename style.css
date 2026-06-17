@@ -168,7 +168,7 @@ body {
 
 /* ============ 데모 카드 ============ */
 .demo-card {
-  margin-top: -1.8rem;
+  margin-top: 2.2rem;
   margin-bottom: var(--space-section);
   background: var(--card);
   border: 1px solid var(--border);
@@ -437,7 +437,7 @@ footer a:hover {
   }
 
   .demo-card {
-    margin-top: -1.5rem;
+    margin-top: 1.5rem;
     border-radius: 16px;
   }
 
